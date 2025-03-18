@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     "Plant Disease Detection",
     "Rudraksh",
   ],
-  creator: "Deveesh-Shetty",
+  creator: "leaflense",
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     title: siteConfig.name,
     description: siteConfig.description,
     images: [siteConfig.ogImage],
-    creator: "@ShettyDeveesh",
+    creator: "@moidinhishan",
   },
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "white" },
@@ -56,8 +56,8 @@ export const metadata: Metadata = {
   ],
   authors: [
     {
-      name: "Deveesh Shetty",
-      url: "https://deveesh.vercel.app",
+      name: "Moidin Hishan",
+      url: "https://moidinhishan.me",
     },
   ],
   icons: {

@@ -29,7 +29,7 @@ export default function FAQs() {
           </AccordionItem>
           <AccordionItem value="question-4">
             <AccordionTrigger>How can I provide feedback or report an issue with leaflens?</AccordionTrigger>
-            <AccordionContent>leaflens is free and open source on <Link href="https://github.com/Deveesh-Shetty/leaflens" className="underline">GitHub</Link>. We value your input! Your feedback helps us refine and enhance leaflens&apos;s capabilities.</AccordionContent>
+            <AccordionContent>leaflens is free and open source on <Link href="https://github.com/hishan03/leaflens" className="underline">GitHub</Link>. We value your input! Your feedback helps us refine and enhance leaflens&apos;s capabilities.</AccordionContent>
           </AccordionItem>
         </Accordion>
       </div>
